@@ -1,4 +1,4 @@
-# D3-Data-Visualization-in-React-
+# D3-Data-Visualization-in-React
 D3-Data-Visualization-in-React 
   
   Use D3 to calculate Data.Use React to render Visualizations.
